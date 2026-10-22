@@ -1,0 +1,1 @@
+This is the public release repository for the Obsidian Spacetime Sync plugin.
