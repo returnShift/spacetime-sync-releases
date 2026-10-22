@@ -1,0 +1,9 @@
+{
+	"id": "spacetime-sync",
+	"name": "Spacetime Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Sync your Obsidian vault with Spacetime.",
+	"author": "TheCyberOne",
+	"isDesktopOnly": false
+}
